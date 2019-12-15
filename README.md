@@ -1,0 +1,2 @@
+# Regression_Analysis
+General Regression model for plotting a graph based on the dataset. Regression appraoch is used for of predicting a continuous quantity output for an example. The Regression Analysis is a statistical tool used to determine the probable change in one variable for the given amount of change in another. This means, the value of the unknown variable can be estimated from the known value of another variable.
